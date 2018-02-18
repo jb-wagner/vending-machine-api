@@ -1,0 +1,3 @@
+rootProject.name = 'vendingmachine'
+rootProject.buildFileName = 'build.gradle.kts'
+
